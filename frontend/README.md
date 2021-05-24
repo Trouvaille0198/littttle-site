@@ -1,26 +1,23 @@
-# vue-learning
+# frontend
 
 ## Project setup
 ```
-cd frontend
-npm install
+yarn install
 ```
 
-### run frontend
+### Compiles and hot-reloads for development
 ```
-cd frontend
-npm run serve
+yarn serve
 ```
 
-### run backend
+### Compiles and minifies for production
 ```
-cd backend/app
-py main.py
+yarn build
 ```
 
 ### Lints and fixes files
 ```
-npm run lint
+yarn lint
 ```
 
 ### Customize configuration
